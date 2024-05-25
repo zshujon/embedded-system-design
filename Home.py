@@ -9,7 +9,7 @@ st.balloons()
 st.title("Embedded System Design")
 
 st.markdown("""
-## Developed by [Md Zakir Hossan](https://zshujon-cv.streamlit.app/)
+## Developed by [Md Zakir Hossan](https://zshujon.github.io/)
 
 |Current Position|Contact|
 |---|---|
